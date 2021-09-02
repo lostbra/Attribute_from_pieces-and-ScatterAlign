@@ -17,3 +17,7 @@
 ![7](https://user-images.githubusercontent.com/63625631/128909420-ffff1b03-0c43-4d0f-a223-57d24af0ec39.jpg)
 ![8](https://user-images.githubusercontent.com/63625631/128909431-8b4f2b94-f944-48ae-9a75-ed3bd403bf3b.jpg)
 
+Scatter points based on attrib
+scatter points only on the up surface
+
+https://www.bilibili.com/video/BV1UA411K7Nj?p=16
